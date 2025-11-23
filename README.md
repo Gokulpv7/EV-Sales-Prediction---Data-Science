@@ -1,2 +1,1 @@
-# EV-Sales-Prediction---Data-Science
-A Jupyter Notebook demonstrating data science workflows including data preprocessing, visualization, model building, and evaluation. Covers exploratory analysis, feature engineering, and applying machine learning techniques for insights and prediction. Ideal for learning, research, and experimentation.
+A data science project demonstrating model training and evaluation using machine learning. Includes data preprocessing, splitting, training Linear Regression and Random Forest models, performance comparison using R² and RMSE, and visualization of predicted vs actual values using Python and sklearn.
